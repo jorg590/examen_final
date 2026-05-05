@@ -48,7 +48,7 @@
             <div style="font-size: 45px;">🦇</div>
             <h3>Clave Murciélago</h3>
             <p>Codificador por sustitución numérica para mensajes confidenciales y entrenamiento criptográfico.</p>
-            <a href="contraseña.jsp" class="btn-nav">Codificar</a>
+            <a href="contrasena.jsp" class="btn-nav">Codificar</a>
         </div>
         <div class="card">
             <div style="font-size: 45px;">🚨</div>
